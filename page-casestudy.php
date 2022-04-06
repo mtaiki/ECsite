@@ -1,0 +1,482 @@
+<?php 
+/**
+ * 
+ * Template Name: page-casestudy
+ * 
+ */
+?>
+
+<?php get_header(); ?>
+
+        <section class="page-cacestudy">
+            <div class="container">
+                <div class="page-casestudy-inner">
+                    <ul class="page-casestudy-list">
+                        <li class="list-item">ビジネス英語研修</li>
+                        <li class="list-item">異文化コミュニケーション</li>
+                        <li class="list-item">ビジネス留学プログラム</li>
+                    </ul>
+                    <div class="casestudy-content">
+                        <h2 class="casestudy-content-title">
+                            ビジネス英語研修<br>
+                            <span>Business English Training</span>
+                        </h2>
+                        <div class="casestudy-item-wrap">
+                            <div class="casestudy-item">
+                                <div class="casestudy-head">
+                                    <p class="casestudy-head-text">
+                                        Webマーケティング事業
+                                    </p>
+                                    <p class="casestudy-head-name">
+                                        AAA株式会社<span>様</span>
+                                    </p>
+                                    <div class="casestudy-item-logo">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/image/img-case01.png" alt="ロゴ画像">
+                                    </div>
+                                </div>
+                                <div class="casestudy-body">
+                                    <h3 class="casestudy-body-title">
+                                        研修コース：
+                                        <span class="case-name">ビジネス英語研修</span>
+                                    </h3>
+                                    <ul class="casestudy-body-list">
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                研修の目的
+                                            </h4>
+                                            <p class="list-text">
+                                                海外にビジネス展開する計画があり、必要な英会話コミュニケーションを身につけることが目的。
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                選んだ理由
+                                            </h4>
+                                            <p class="list-text">
+                                                海外の企業で働いていた実績のある講師に直接ご指導いただけることは、とても貴重な経験になると考えた為
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                導入後の成果・効果
+                                            </h4>
+                                            <p class="list-text">
+                                                昨年からオーストラリアの企業と業務提携を開始し、３ヶ月という短い研修期間でしたが、業務に必要なコミュニケーションはスムーズに行えております。<br>
+                                                今後は更なるスキルアップを目指していきます。
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="casestudy-item">
+                                <div class="casestudy-head">
+                                    <p class="casestudy-head-text">
+                                        Webマーケティング事業
+                                    </p>
+                                    <p class="casestudy-head-name">
+                                        AAA株式会社<span>様</span>
+                                    </p>
+                                    <div class="casestudy-item-logo">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/image/img-case01.png" alt="ロゴ画像">
+                                    </div>
+                                </div>
+                                <div class="casestudy-body">
+                                    <h3 class="casestudy-body-title">
+                                        研修コース：
+                                        <span class="case-name">ビジネス英語研修</span>
+                                    </h3>
+                                    <ul class="casestudy-body-list">
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                研修の目的
+                                            </h4>
+                                            <p class="list-text">
+                                                海外にビジネス展開する計画があり、必要な英会話コミュニケーションを身につけることが目的。
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                選んだ理由
+                                            </h4>
+                                            <p class="list-text">
+                                                海外の企業で働いていた実績のある講師に直接ご指導いただけることは、とても貴重な経験になると考えた為
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                導入後の成果・効果
+                                            </h4>
+                                            <p class="list-text">
+                                                昨年からオーストラリアの企業と業務提携を開始し、３ヶ月という短い研修期間でしたが、業務に必要なコミュニケーションはスムーズに行えております。<br>
+                                                今後は更なるスキルアップを目指していきます。
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="casestudy-item">
+                                <div class="casestudy-head">
+                                    <p class="casestudy-head-text">
+                                        Webマーケティング事業
+                                    </p>
+                                    <p class="casestudy-head-name">
+                                        AAA株式会社<span>様</span>
+                                    </p>
+                                    <div class="casestudy-item-logo">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/image/img-case01.png" alt="ロゴ画像">
+                                    </div>
+                                </div>
+                                <div class="casestudy-body">
+                                    <h3 class="casestudy-body-title">
+                                        研修コース：
+                                        <span class="case-name">ビジネス英語研修</span>
+                                    </h3>
+                                    <ul class="casestudy-body-list">
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                研修の目的
+                                            </h4>
+                                            <p class="list-text">
+                                                海外にビジネス展開する計画があり、必要な英会話コミュニケーションを身につけることが目的。
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                選んだ理由
+                                            </h4>
+                                            <p class="list-text">
+                                                海外の企業で働いていた実績のある講師に直接ご指導いただけることは、とても貴重な経験になると考えた為
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                導入後の成果・効果
+                                            </h4>
+                                            <p class="list-text">
+                                                昨年からオーストラリアの企業と業務提携を開始し、３ヶ月という短い研修期間でしたが、業務に必要なコミュニケーションはスムーズに行えております。<br>
+                                                今後は更なるスキルアップを目指していきます。
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="casestudy-item">
+                                <div class="casestudy-head">
+                                    <p class="casestudy-head-text">
+                                        Webマーケティング事業
+                                    </p>
+                                    <p class="casestudy-head-name">
+                                        AAA株式会社<span>様</span>
+                                    </p>
+                                    <div class="casestudy-item-logo">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/image/img-case01.png" alt="ロゴ画像">
+                                    </div>
+                                </div>
+                                <div class="casestudy-body">
+                                    <h3 class="casestudy-body-title">
+                                        研修コース：
+                                        <span class="case-name">ビジネス英語研修</span>
+                                    </h3>
+                                    <ul class="casestudy-body-list">
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                研修の目的
+                                            </h4>
+                                            <p class="list-text">
+                                                海外にビジネス展開する計画があり、必要な英会話コミュニケーションを身につけることが目的。
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                選んだ理由
+                                            </h4>
+                                            <p class="list-text">
+                                                海外の企業で働いていた実績のある講師に直接ご指導いただけることは、とても貴重な経験になると考えた為
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                導入後の成果・効果
+                                            </h4>
+                                            <p class="list-text">
+                                                昨年からオーストラリアの企業と業務提携を開始し、３ヶ月という短い研修期間でしたが、業務に必要なコミュニケーションはスムーズに行えております。<br>
+                                                今後は更なるスキルアップを目指していきます。
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="<?php echo esc_url( home_url( 'service' ) ); ?>" class="casestudy-content-btn">
+                            <p class="btn-text">ビジネス英語研修の詳細</p>
+                            <div class="btn-icon">
+                                <img class="icon" src="<?php echo get_template_directory_uri(); ?>/image/icon-arrow-right04.png" alt="アイコン画像">
+                                <img class="hover-icon" src="<?php echo get_template_directory_uri(); ?>/image/icon-arrow-white.png" alt="アイコン画像">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="casestudy-content">
+                        <h2 class="casestudy-content-title">
+                            異文化コミュニケーション<br>
+                            <span>Cross-cultural communication</span>
+                        </h2>
+                        <div class="casestudy-item-wrap">
+                            <div class="casestudy-item">
+                                <div class="casestudy-head">
+                                    <p class="casestudy-head-text">
+                                        Webマーケティング事業
+                                    </p>
+                                    <p class="casestudy-head-name">
+                                        AAA株式会社<span>様</span>
+                                    </p>
+                                    <div class="casestudy-item-logo">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/image/img-case01.png" alt="ロゴ画像">
+                                    </div>
+                                </div>
+                                <div class="casestudy-body">
+                                    <h3 class="casestudy-body-title">
+                                        研修コース：
+                                        <span class="case-name">ビジネス英語研修</span>
+                                    </h3>
+                                    <ul class="casestudy-body-list">
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                研修の目的
+                                            </h4>
+                                            <p class="list-text">
+                                                海外にビジネス展開する計画があり、必要な英会話コミュニケーションを身につけることが目的。
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                選んだ理由
+                                            </h4>
+                                            <p class="list-text">
+                                                海外の企業で働いていた実績のある講師に直接ご指導いただけることは、とても貴重な経験になると考えた為
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                導入後の成果・効果
+                                            </h4>
+                                            <p class="list-text">
+                                                昨年からオーストラリアの企業と業務提携を開始し、３ヶ月という短い研修期間でしたが、業務に必要なコミュニケーションはスムーズに行えております。<br>
+                                                今後は更なるスキルアップを目指していきます。
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="casestudy-item">
+                                <div class="casestudy-head">
+                                    <p class="casestudy-head-text">
+                                        Webマーケティング事業
+                                    </p>
+                                    <p class="casestudy-head-name">
+                                        AAA株式会社<span>様</span>
+                                    </p>
+                                    <div class="casestudy-item-logo">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/image/img-case01.png" alt="ロゴ画像">
+                                    </div>
+                                </div>
+                                <div class="casestudy-body">
+                                    <h3 class="casestudy-body-title">
+                                        研修コース：
+                                        <span class="case-name">ビジネス英語研修</span>
+                                    </h3>
+                                    <ul class="casestudy-body-list">
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                研修の目的
+                                            </h4>
+                                            <p class="list-text">
+                                                海外にビジネス展開する計画があり、必要な英会話コミュニケーションを身につけることが目的。
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                選んだ理由
+                                            </h4>
+                                            <p class="list-text">
+                                                海外の企業で働いていた実績のある講師に直接ご指導いただけることは、とても貴重な経験になると考えた為
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                導入後の成果・効果
+                                            </h4>
+                                            <p class="list-text">
+                                                昨年からオーストラリアの企業と業務提携を開始し、３ヶ月という短い研修期間でしたが、業務に必要なコミュニケーションはスムーズに行えております。<br>
+                                                今後は更なるスキルアップを目指していきます。
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="casestudy-item">
+                                <div class="casestudy-head">
+                                    <p class="casestudy-head-text">
+                                        Webマーケティング事業
+                                    </p>
+                                    <p class="casestudy-head-name">
+                                        AAA株式会社<span>様</span>
+                                    </p>
+                                    <div class="casestudy-item-logo">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/image/img-case01.png" alt="ロゴ画像">
+                                    </div>
+                                </div>
+                                <div class="casestudy-body">
+                                    <h3 class="casestudy-body-title">
+                                        研修コース：
+                                        <span class="case-name">ビジネス英語研修</span>
+                                    </h3>
+                                    <ul class="casestudy-body-list">
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                研修の目的
+                                            </h4>
+                                            <p class="list-text">
+                                                海外にビジネス展開する計画があり、必要な英会話コミュニケーションを身につけることが目的。
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                選んだ理由
+                                            </h4>
+                                            <p class="list-text">
+                                                海外の企業で働いていた実績のある講師に直接ご指導いただけることは、とても貴重な経験になると考えた為
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                導入後の成果・効果
+                                            </h4>
+                                            <p class="list-text">
+                                                昨年からオーストラリアの企業と業務提携を開始し、３ヶ月という短い研修期間でしたが、業務に必要なコミュニケーションはスムーズに行えております。<br>
+                                                今後は更なるスキルアップを目指していきます。
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="#" class="casestudy-content-btn">
+                            <p class="btn-text">異文化コミュニケーションの詳細</p>
+                            <div class="btn-icon">
+                                <img class="icon" src="<?php echo get_template_directory_uri(); ?>/image/icon-arrow-right04.png" alt="アイコン画像">
+                                <img class="hover-icon" src="<?php echo get_template_directory_uri(); ?>/image/icon-arrow-white.png" alt="アイコン画像">
+                            </div>
+                        </a>
+                    </div>
+                    <div class="casestudy-content">
+                        <h2 class="casestudy-content-title">
+                            ビジネス留学プログラム<br>
+                            <span>Business study abroad program</span>
+                        </h2>
+                        <div class="casestudy-item-wrap">
+                            <div class="casestudy-item">
+                                <div class="casestudy-head">
+                                    <p class="casestudy-head-text">
+                                        Webマーケティング事業
+                                    </p>
+                                    <p class="casestudy-head-name">
+                                        AAA株式会社<span>様</span>
+                                    </p>
+                                    <div class="casestudy-item-logo">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/image/img-case01.png" alt="ロゴ画像">
+                                    </div>
+                                </div>
+                                <div class="casestudy-body">
+                                    <h3 class="casestudy-body-title">
+                                        研修コース：
+                                        <span class="case-name">ビジネス英語研修</span>
+                                    </h3>
+                                    <ul class="casestudy-body-list">
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                研修の目的
+                                            </h4>
+                                            <p class="list-text">
+                                                海外にビジネス展開する計画があり、必要な英会話コミュニケーションを身につけることが目的。
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                選んだ理由
+                                            </h4>
+                                            <p class="list-text">
+                                                海外の企業で働いていた実績のある講師に直接ご指導いただけることは、とても貴重な経験になると考えた為
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                導入後の成果・効果
+                                            </h4>
+                                            <p class="list-text">
+                                                昨年からオーストラリアの企業と業務提携を開始し、３ヶ月という短い研修期間でしたが、業務に必要なコミュニケーションはスムーズに行えております。<br>
+                                                今後は更なるスキルアップを目指していきます。
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="casestudy-item">
+                                <div class="casestudy-head">
+                                    <p class="casestudy-head-text">
+                                        Webマーケティング事業
+                                    </p>
+                                    <p class="casestudy-head-name">
+                                        AAA株式会社<span>様</span>
+                                    </p>
+                                    <div class="casestudy-item-logo">
+                                        <img src="<?php echo get_template_directory_uri(); ?>/image/img-case01.png" alt="ロゴ画像">
+                                    </div>
+                                </div>
+                                <div class="casestudy-body">
+                                    <h3 class="casestudy-body-title">
+                                        研修コース：
+                                        <span class="case-name">ビジネス英語研修</span>
+                                    </h3>
+                                    <ul class="casestudy-body-list">
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                研修の目的
+                                            </h4>
+                                            <p class="list-text">
+                                                海外にビジネス展開する計画があり、必要な英会話コミュニケーションを身につけることが目的。
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                選んだ理由
+                                            </h4>
+                                            <p class="list-text">
+                                                海外の企業で働いていた実績のある講師に直接ご指導いただけることは、とても貴重な経験になると考えた為
+                                            </p>
+                                        </li>
+                                        <li class="casestudy-list-item">
+                                            <h4 class="list-item-title">
+                                                導入後の成果・効果
+                                            </h4>
+                                            <p class="list-text">
+                                                昨年からオーストラリアの企業と業務提携を開始し、３ヶ月という短い研修期間でしたが、業務に必要なコミュニケーションはスムーズに行えております。<br>
+                                                今後は更なるスキルアップを目指していきます。
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="#" class="casestudy-content-btn">
+                            <p class="btn-text">ビジネス留学プログラム</p>
+                            <div class="btn-icon">
+                                <img class="icon" src="<?php echo get_template_directory_uri(); ?>/image/icon-arrow-right04.png" alt="アイコン画像">
+                                <img class="hover-icon" src="<?php echo get_template_directory_uri(); ?>/image/icon-arrow-white.png" alt="アイコン画像">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+<?php get_footer(); ?>
